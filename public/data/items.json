@@ -1,0 +1,85 @@
+{
+  
+  "items": [
+     {
+      "id": 1,
+      "titulo": "Blusa de frio branca",
+      "descricao": "Blusa de frio branca com capuz",
+      "categoria": "vestuario",
+      "imagem": "/public/img/item1.jpg",
+      "dataEncontrado": "2025-12-30",
+      "local": "Bloco 5",
+      "reivindicado": false
+    },
+    {
+      "id": 2,
+      "titulo": "Iphone 15",
+      "descricao": "Iphone 15 pro maz preto",
+      "categoria": "eletronico",
+      "imagem": "/public/img/item2.jpg",
+      "dataEncontrado": "2025-12-30",
+      "local": "Bloco 1",
+      "reivindicado": false
+    },
+    {
+      "id": 3,
+      "titulo": "Caderna Azul",
+      "descricao": "Caderno de capa dura azul",
+      "categoria": "material-escolar",
+      "imagem": "/public/img/item3.jpg", 
+      "dataEncontrado": "2025-12-29",
+      "local": "Biblioteca",
+      "reivindicado": false
+    },
+    {
+      "id": 4,
+      "titulo": "Mochila ", 
+      "descricao": "Mochila bege com flores azuis",
+      "categoria": "material-escolar",
+      "imagem": "/public/img/item4.jpg",
+      "dataEncontrado": "2025-12-28",
+      "local": "Bloco 5",
+      "reivindicado": false
+    },
+    {
+      "id": 5,
+      "titulo": "Power Bank", 
+      "descricao": "Power bank 10000mAH branca",
+      "categoria": "eletronico",
+      "imagem": "/public/img/item5.jpg",
+      "dataEncontrado": "2025-12-01",
+      "local": "Bloco 5",
+      "reivindicado": false
+    },
+    {
+      "id": 6,
+      "titulo": "Fone de ouvido", 
+      "descricao": "headset bluetooth preto",
+      "categoria": "eletronico",
+      "imagem": "/public/img/item6.jpg",
+      "dataEncontrado": "2025-12-15",
+      "local": "Bloco 5",
+      "reivindicado": false
+    },
+    {
+      "id": 7,
+      "titulo": "Air pods", 
+      "descricao": "Air pods branco",
+      "categoria": "eletronico",
+      "imagem": "/public/img/item7.jpg",
+      "dataEncontrado": "2025-12-12",
+      "local": "Bloco 5",
+      "reivindicado": false
+    },
+    {
+      "id": 8,
+      "titulo": "Notebook", 
+      "descricao": "Noteboook Dell cinza escuro",
+      "categoria": "eletronico",
+      "imagem": "/public/img/item8.jpg",
+      "dataEncontrado": "2025-11-30",
+      "local": "Bloco 5",
+      "reivindicado": false
+    }
+  ]
+}

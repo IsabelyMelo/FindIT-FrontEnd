@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Admin Sistema",
+      "email": "admin.123@discente.uemg.br",
+      "password": "admin123",
+      "tipo": "admin",
+      "dataCadastro": "2025-12-30"
+    },
+    {
+      "id": 2,
+      "nome": "Thaíssa Fernandes Silva",
+      "email": "thaissa.1698673@discente.uemg.br",
+      "password": "14042003",
+      "tipo": "admin",
+      "dataCadastro": "2025-12-30"
+    },
+    {
+      "id": 3,
+      "nome": "User Sistema",
+      "email": "user.123456@discente.uemg.br",
+      "password": "123456",
+      "tipo": "user",
+      "dataCadastro": "2025-12-30"
+    }
+  ]
+}
