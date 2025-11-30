@@ -23,7 +23,7 @@
     },
     {
       "id": 3,
-      "titulo": "Caderna Azul",
+      "titulo": "Caderno Azul",
       "descricao": "Caderno de capa dura azul",
       "categoria": "material-escolar",
       "imagem": "/public/img/item3.jpg", 
