@@ -78,7 +78,7 @@ Em desenvolvimento
 
 
 
-## 👩‍💻 Desenvolvedores
+## Desenvolvedores
 Caio Cezar Dias \
 Isabely Toledo de Melo \
 Rafael Batista Alves \
